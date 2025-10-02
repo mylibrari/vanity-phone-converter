@@ -75,8 +75,8 @@ For testing the functionality, you can run `./demo-test.sh`
 
 1. **Clone and Setup**
    ```bash
-   git clone https://github.com/geekmood/vanity-number-project
-   cd vanity-numbers-project
+   git clone https://github.com/mylibrari/vanity-phone-converter.git
+   cd vanity-phone-converter
    chmod +x setup.sh
    ./setup.sh
    ```
@@ -346,4 +346,3 @@ The solution successfully meets all requirements:
 - **Terraform** Infrastructure as Code
 - **Web dashboard** showing recent calls
 - Complete **documentation** and setup instructions
-
